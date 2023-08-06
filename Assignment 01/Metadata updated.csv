@@ -1,0 +1,37 @@
+Type of Information about a road segment,Variable,Description
+ID,ID,Unique Identifier
+Road information,EZI_ROAD_NAME,Full Name of Road segment
+Road information,ROAD_NAME,Road segment name
+Road information,ROAD_TYPE,"Type of road (Highway, Street etc)"
+Demographic variable % within 150m of a road segment,AGE_LESS_THAN_15YRS_PCNT,% age less than 15 year
+Demographic variable % within 150m of a road segment,AGE_15_24YRS_PCNT,% age between 15-24 years
+Demographic variable % within 150m of a road segment,AGE_25_44YRS_PCNT,% age between 25-44 years
+Demographic variable % within 150m of a road segment,AGE_45_64YRS_PCNT,% age between 45-64 years
+Demographic variable % within 150m of a road segment,AGE_18YRS_OVER_PCNT,% age 18+
+Demographic variable % within 150m of a road segment,AGE_65YRS_OVER_PCNT,% age 65+
+Demographic variable % within 150m of a road segment,SEO_PERSONS_PCNT,% People that speak only english at home
+Demographic variable % within 150m of a road segment,FC_COUPLE_NO_CHILDREN_PCNT,% Family Composition - Couples with no children
+Demographic variable % within 150m of a road segment,FC_COUPLE_WITH_CHILDREN_PCNT,% Family Composition - Couples with children
+Demographic variable % within 150m of a road segment,FC_SINGLE_PARENT,% Family Composition - Singe parent households
+Demographic variable % within 150m of a road segment,CARS_ZERO_HH_PCNT,% households with no cars
+Demographic variable % within 150m of a road segment,CARS_ONE_HH_PCNT,% households with 1 cars
+Demographic variable % within 150m of a road segment,CARS_TWO_OR_MORE_HH_PCNT,% households with 2+ cars
+Demographic variable % within 150m of a road segment,DWELLING_SEP_HOUSE_PCNT,% Dwellings - separate houses
+Demographic variable % within 150m of a road segment,DWELLING_SEMID_RO_OR_TCE_H_TH_P,% Dwellings - semi detached or terrace houses
+Demographic variable % within 150m of a road segment,DWELLING_FLAT_UNIT_APART_PCNT,"% Dwellings - flat, units, apartments"
+Demographic variable % within 150m of a road segment,OCCUPATION_WHITE_COLLAR_PCNT,% Occupation - White collar
+Demographic variable % within 150m of a road segment,OCCUPATION_BLUE_COLLAR_PCNT,% Occupation - Blue Collar
+Demographic variable % within 150m of a road segment,SEIFA,"Socioeconomic Index for Areas (1000= Average | >1000 = Above average | <1000 = Less than average). This is a numeric measure of the socioeconomic status of people. It measured by taking into account things such as education level, income level, house price, rent, mortgage, unemployment, job type etc."
+Land Use % within 150m of a road segment,Commercial%,"% of land for commercial use. Commercial land use contain a number of businesses such as office building with different tenancies, café and reatil strips etc, and where possible, will have a zero population count. "
+Land Use % within 150m of a road segment,Industrial%,"% of land for Industrial use. Industrial land use contain a number of heavy indusrty businesses such as factories, homemaker centres etc, and where possible, will have a zero population count. "
+Land Use % within 150m of a road segment,Residential%,"% of land for Residential use. Residential land use mainly contain houses, duplexes, apartments, townhouses, gated communities, caravan parks, retirement villages, residential military bases, and prisons. "
+Land Use % within 150m of a road segment,Parkland%,"% of land for Parkland use. Parklands mainly contain parks, nature reserves, public open space, and other minimal-use protected or conserved areas and, where possible, will have a zero population count. Parkland may also include sporting arenas or facilities, including racecourses, golf courses and stadiums. These facilities may not be open to the public."
+Land Use % within 150m of a road segment,Primary_Production%,% of land for Primary Production use. These areas are typically available land that can be used for development purposes
+Points of Interest within 150m of a road segment,Lq_Licenses,Number of liquor license venues
+Points of Interest within 150m of a road segment,Supermarket,Does the road segment have a supermarket (1=Yes | 0=No)
+Points of Interest within 150m of a road segment,primary_school,Does the road segment have a primary school (1=Yes | 0=No)
+Points of Interest within 150m of a road segment,secondary_school,Does the road segment have a secondary school (1=Yes | 0=No)
+Road characteristics,km_post,Does the road segment have a speed sign (1=Yes | 0=No)
+Road characteristics,traffic_signal,Does the road segment have a traffic signal (1=Yes | 0=No)
+Road characteristics,Intersection,Does the road segment have an intersection (1=Yes | 0=No)
+Blackspot,Blackspot,Is this road segment a blackspot (1=Yes | 0=No)
